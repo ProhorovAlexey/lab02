@@ -1,4 +1,4 @@
-//comment
+//комментарий
 include <iostream>
 include<string>
 
